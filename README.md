@@ -1,16 +1,6 @@
-# Nombre del proyecto
+# Looped
 
 Repositorio de trabajo del grupo. Cada carpeta corresponde a un entregable.
-
-## Estructura
-
-| Carpeta | Contenido | Formato |
-|---|---|---|
-| `01-brief/` | Brief final actualizado | `.md` |
-| `02-benchmark/` | Benchmark interno y externo | `.md` + `.pdf` |
-| `03-flujograma/` | Flujograma V1 | `.jpg` / `.png` |
-| `04-ppt-primer-corte/` | Presentación final del primer corte | `.pdf` |
-| `05-spec/` | Especificación del proyecto (se completa después) | `.md` |
 
 ## Acuerdos del grupo
 
@@ -20,6 +10,6 @@ Repositorio de trabajo del grupo. Cada carpeta corresponde a un entregable.
 
 ## Integrantes
 
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Nombre Daniela Albarracín
+- Nombre Nicolás Corredor
+- Nombre Lukas Lopez
